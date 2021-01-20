@@ -34,8 +34,8 @@
 
     <?php
     $servername = "localhost:3306";
-    $username = "swarna";
-    $password = "swarna1";
+    $username = "raji";
+    $password = "raji1";
 
 $conn=mysqli_connect($servername,$username,$password,"gail");
 // Check connection
